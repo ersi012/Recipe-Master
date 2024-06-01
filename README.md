@@ -1,11 +1,7 @@
-# Sample Snack app
+# Recipe Master - React Native app
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Recipe Master is an app that allows users to add and keep track of their recipes. We all tend not to have a designated place to keep our recipes, which is why Recipe Master will make it easy for everyone to be more organized.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+Here is a demo of the app:
+https://github.com/ersi012/Recipe-Master/assets/123680441/6f5cf57a-25c8-4e3c-ad61-b95fa347450d
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
